@@ -1,8 +1,8 @@
 #!/usr/bin/python
-
+    
 def fib(size):
 	arr = []
-
+    arr.count()
 	arr.append(1)
 	arr.append(2)
 	count = 0
