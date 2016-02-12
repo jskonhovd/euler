@@ -1,4 +1,4 @@
 Readme
 ------
 
-These are my Project Eulur Problems
+These are my Project Euler Problems
